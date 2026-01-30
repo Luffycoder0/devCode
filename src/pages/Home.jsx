@@ -23,7 +23,7 @@ export default function Home() {
           </div>
 
           <div className="topbar-center">
-            <div className="nav-pill px-3 py-2">
+            <div className="nav-pill px-5 py-2">
               <a className="nav-linkx" href="#products">
                 Products
               </a>
