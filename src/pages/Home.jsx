@@ -43,11 +43,9 @@ export default function Home() {
           </div>
 
           <div className="topbar-right">
-            <button type="button" className="btn btn-outline-light btn-sm btn-pill"  onClick={() => navigate("/login")}>
-              Login
-            </button>
-            <button type="button" className="btn btn-light btn-sm btn-pill"  onClick={() => navigate("/signup")} >
-              Sign up
+           
+            <button type="button" className="btn btn-light btn-sm btn-pill"  onClick={() => navigate("/join")} >
+              join now
             </button>
           </div>
         </nav>
